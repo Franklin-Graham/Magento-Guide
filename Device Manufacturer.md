@@ -1,0 +1,1 @@
+Follow the step same as  [[Project Type]]
