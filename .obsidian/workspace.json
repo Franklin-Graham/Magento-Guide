@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUY NOW.md",
+                "file": "Measure Creations/BUY NOW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUY NOW.md",
+                "file": "Measure Creations/BUY NOW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Past Purchase.md",
+                "file": "Measure Creations/Past Purchase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUY NOW.md",
+                "file": "Measure Creations/BUY NOW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -206,29 +206,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5aaaff0ac0b66af9",
   "lastOpenFiles": [
-    "Amazon Integration setup.md",
-    "BUY NOW.md",
+    "Store level Config/Amazon Integration setup.md",
+    "Measure Creations/BUY NOW.md",
+    "Measure Creations/Past Purchase.md",
+    "Past purchase Explanation.md",
+    "Store level Config/Cart Stacking Limit.md",
+    "Pimcore.md",
+    "Store level Config",
+    "Stacking Limit.md",
+    "Eligibility App URL.md",
+    "Measure Creations",
+    "Untitled.canvas",
+    "2025-01-24.md",
     "buy now explanation.md",
-    "Past Purchase.md",
-    "Cart Stacking Limit.md",
     "cart limit.md",
     "Pasted image 20250124015745.png",
     "Pasted image 20250124015040.png",
     "Measure Config JSON.md",
-    "Eligibility App URL.md",
     "Price.md",
     "Pasted image 20250124012922.png",
     "Pasted image 20250124012249.png",
     "Pasted image 20250124012130.png",
     "Pasted image 20250124011907.png",
     "Pasted image 20250124011241.png",
-    "Pimcore.md",
-    "Past purchase Explanation.md",
     "Screenshot 2025-01-22 193419.png",
     "Project Type.md",
     "Device Manufacturer.md",

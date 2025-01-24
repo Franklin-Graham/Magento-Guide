@@ -40,7 +40,7 @@
  ** [[Project Type]]: Set as required
  ** [[Device Manufacturer]]: Set as required
 # Amazon Product Identifier:
-** If the Product is Amazon Manufacture then add the Unique product identifier, which should be the SKU of the same product.	![[Pasted image 20250122190434.png]]
+** If the Product is Amazon Manufacture then add the Unique product identifier, which should be the SKU of the same product.	 ([[Amazon Integration setup]])![[Pasted image 20250122190434.png]]
 	
 	  
  

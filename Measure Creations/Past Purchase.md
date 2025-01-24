@@ -12,7 +12,7 @@ How to Create a Past Purchase measure:
  ** Inventory Service: select "rebate"
  ** Skip Checkout: Enable
  ** Eligibility Check: Enable
- ** Eligibility App URL: (configure the link only if it VUE based application, if not leave blank)
+ ** [[Eligibility App URL]]: (configure the link only if it VUE based application, if not leave blank)
 	 QA: https://static-qa.clearesult.io/components/general/product-recommendation-assessment-app.min.js
 	 PROD: [https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js](https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js "https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js")
 # Product in Websites**
@@ -23,7 +23,7 @@ How to Create a Past Purchase measure:
   ** Pimcore Product ID: 
 	  provide by pimcore Team (configure if its needed)
   ** Incentive Category Group: (add if needed)
-	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and Cart [[Stacking Limit]].
+	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and [[Cart Stacking Limit]].
   ** Incentive Count: 
 	  (Give default as "1", will vary based on Pac-Size)
   ** Incentive Type: 
