@@ -1,5 +1,5 @@
 [[Past purchase Explanation]]:
-How to Create a Past Purchase measure:
+How to Create a Past Purchase product:
 
  CATALOG -> Products (create a new Virtual product)
 	 ![[Screenshot 2025-01-22 193419.png]] 

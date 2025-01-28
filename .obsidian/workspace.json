@@ -11,15 +11,14 @@
             "id": "b0ea4872e33ad899",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Measure Creations/BUY NOW.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "aFile": "Explanations/Measure Config JSON.md",
+                "bFile": "Explanations/Measure Config JSON.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "BUY NOW"
+              "icon": "diff",
+              "title": "Diff: Measure Config JSON"
             }
           },
           {
@@ -67,8 +66,7 @@
               "title": "BUY NOW"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,10 +218,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05daf7b626a1bd3c",
+  "active": "b0ea4872e33ad899",
   "lastOpenFiles": [
+    "Measure Creations/Past Purchase.md",
+    "Explanations/Device Manufacturer.md",
+    "Explanations/Project Type.md",
+    "Explanations/Pimcore.md",
+    "Explanations/Measure Config JSON.md",
     "Explanations/buy now explanation.md",
     "Measure Creations/BUY NOW.md",
+    "Explanations/Past purchase Explanation.md",
     "Explanations",
     "Store level Config/MiniOrange OAuth and SAML.md",
     "Media/Pasted image 20250124201738.png",
@@ -231,7 +235,6 @@
     "Media",
     "Media.md",
     "Explanations/Cart Stacking Limit.md",
-    "Measure Creations/Past Purchase.md",
     "Store level Config/SmartyStreets.md",
     "Media/Pasted image 20250124200043.png",
     "Media/Screenshot 2025-01-24 195200 4.png",
@@ -241,8 +244,6 @@
     "Media/Screenshot 2025-01-24 195200.png",
     "Store level Config/Amazon Integration setup.md",
     "Explanations/Price.md",
-    "Explanations/Past purchase Explanation.md",
-    "Explanations/Pimcore.md",
     "Store level Config",
     "Stacking Limit.md",
     "Explanations/Eligibility App URL.md",
@@ -251,9 +252,6 @@
     "2025-01-24.md",
     "cart limit.md",
     "Media/Pasted image 20250124015745.png",
-    "Media/Pasted image 20250124015040.png",
-    "Explanations/Measure Config JSON.md",
-    "Explanations/Project Type.md",
-    "Explanations/Device Manufacturer.md"
+    "Media/Pasted image 20250124015040.png"
   ]
 }
