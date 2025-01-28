@@ -38,3 +38,6 @@ How to Create a Past Purchase measure:
 	  Configure it if required (Price Text will reflect in Product Tile on front-end)
   ** Program Id:
 	  config the PRJ as per the program
+
+# Note: 
+** Always try to update the Product level config under store view scope.	![[Screenshot 2025-01-24 195200 4.png]]

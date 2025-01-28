@@ -41,6 +41,6 @@
  ** [[Device Manufacturer]]: Set as required
 # Amazon Product Identifier:
 ** If the Product is Amazon Manufacture then add the Unique product identifier, which should be the SKU of the same product.	 ([[Amazon Integration setup]])![[Pasted image 20250122190434.png]]
-	
-	  
- 
+
+# Note: 
+** Always try to update the Product level config under store view scope.	![[Screenshot 2025-01-24 195200 4.png]]
