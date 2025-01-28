@@ -1,1 +1,0 @@
-pimcore is the tool like a calculation engine

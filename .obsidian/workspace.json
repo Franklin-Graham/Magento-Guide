@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Explanations/Measure Config JSON.md",
-                "bFile": "Explanations/Measure Config JSON.md",
+                "aFile": "Explanations/buy now explanation.md",
+                "bFile": "Explanations/buy now explanation.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Measure Config JSON"
+              "title": "Diff: buy now explanation"
             }
           },
           {
@@ -221,20 +221,21 @@
   "active": "b0ea4872e33ad899",
   "lastOpenFiles": [
     "Measure Creations/Past Purchase.md",
-    "Explanations/Device Manufacturer.md",
-    "Explanations/Project Type.md",
-    "Explanations/Pimcore.md",
-    "Explanations/Measure Config JSON.md",
-    "Explanations/buy now explanation.md",
     "Measure Creations/BUY NOW.md",
-    "Explanations/Past purchase Explanation.md",
-    "Explanations",
+    "Other Explanation/Project Type.md",
     "Store level Config/MiniOrange OAuth and SAML.md",
+    "Other Explanation/Measure Config JSON.md",
+    "Other Explanation/Pimcore.md",
+    "Other Explanation/Cart Stacking Limit.md",
+    "Other Explanation/buy now explanation.md",
+    "Other Explanation/Eligibility App URL.md",
+    "Other Explanation/Device Manufacturer.md",
+    "Other Explanation/Past purchase Explanation.md",
+    "Other Explanation",
     "Media/Pasted image 20250124201738.png",
     "Media/Pasted image 20250124201921.png",
     "Media",
     "Media.md",
-    "Explanations/Cart Stacking Limit.md",
     "Store level Config/SmartyStreets.md",
     "Media/Pasted image 20250124200043.png",
     "Media/Screenshot 2025-01-24 195200 4.png",
@@ -243,10 +244,9 @@
     "Media/Screenshot 2025-01-24 195200 1.png",
     "Media/Screenshot 2025-01-24 195200.png",
     "Store level Config/Amazon Integration setup.md",
-    "Explanations/Price.md",
+    "Other Explanation/Price.md",
     "Store level Config",
     "Stacking Limit.md",
-    "Explanations/Eligibility App URL.md",
     "Measure Creations",
     "Untitled.canvas",
     "2025-01-24.md",

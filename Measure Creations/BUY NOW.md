@@ -1,5 +1,6 @@
 [[buy now explanation]]
- Creation of Buy Now Product Configs:
+
+## How to Create Buy Now product:
  
  CATALOG -> Products (create a new simple product)
 	 ![[Screenshot 2025-01-22 181905.png]]

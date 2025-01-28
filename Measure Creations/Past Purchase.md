@@ -1,7 +1,10 @@
 [[Past purchase Explanation]]:
-How to Create a Past Purchase product:
 
- CATALOG -> Products (create a new Virtual product)
+The HOMES and HEAR products setup similar to past purchase measure, Only the measure JSON structure will be change, please refer for further [[Measure Config JSON]]
+
+## How to Create a Past Purchase product:
+
+ Go to CATALOG -> Products (create a new Virtual product)
 	 ![[Screenshot 2025-01-22 193419.png]] 
  ** Attribute Set: cr_past_purchase
  ** Product Name and SKU (Provide as reuired)
