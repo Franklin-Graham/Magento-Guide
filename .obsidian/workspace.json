@@ -11,14 +11,15 @@
             "id": "b0ea4872e33ad899",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Explanations/buy now explanation.md",
-                "bFile": "Explanations/buy now explanation.md",
-                "aRef": ""
+                "file": "Other Explanation/buy now explanation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: buy now explanation"
+              "icon": "lucide-file",
+              "title": "buy now explanation"
             }
           },
           {
@@ -220,8 +221,8 @@
   },
   "active": "b0ea4872e33ad899",
   "lastOpenFiles": [
-    "Measure Creations/Past Purchase.md",
     "Measure Creations/BUY NOW.md",
+    "Measure Creations/Past Purchase.md",
     "Other Explanation/Project Type.md",
     "Store level Config/MiniOrange OAuth and SAML.md",
     "Other Explanation/Measure Config JSON.md",
