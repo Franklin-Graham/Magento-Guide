@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/Amazon to Magento Syncing Shipment.md",
+                "file": "Store level Config/Atlas Theme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon to Magento Syncing Shipment"
+              "title": "Atlas Theme"
             }
           },
           {
@@ -219,18 +219,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0ea4872e33ad899",
+  "active": "1465d08ed2b78cf1",
   "lastOpenFiles": [
+    "Media/Pasted image 20250129155533.png",
+    "Media/Pasted image 20250129155355.png",
+    "Media/Pasted image 20250129155232.png",
+    "Media/Pasted image 20250129155130.png",
+    "Media/Pasted image 20250129154637.png",
+    "Media/Pasted image 20250129154342.png",
+    "Store level Config/Untitled.md",
+    "Store level Config/Atlas Theme.md",
+    "Store level Config/Amazon to Magento Syncing Shipment.md",
     "Store level Config/Amazon Integration setup.md",
     "Measure Creations/BUY NOW.md",
-    "Store level Config/Amazon to Magento Syncing Shipment.md",
-    "Pasted image 20250129152433.png",
-    "Pasted image 20250129152406.png",
-    "Pasted image 20250129152333.png",
+    "Media/Pasted image 20250129152433.png",
+    "Media/Pasted image 20250129152406.png",
+    "Media/Pasted image 20250129152333.png",
     "Measure Creations/Past Purchase.md",
     "Other Explanation/Past purchase Explanation.md",
     "Other Explanation/Measure Config JSON.md",
-    "Store level Config/Atlas Theme.md",
     "Other Explanation/Price.md",
     "Store level Config/Atlas Theme",
     "Other Explanation/buy now explanation.md",
@@ -246,11 +253,6 @@
     "Media",
     "Media.md",
     "Store level Config/SmartyStreets.md",
-    "Media/Pasted image 20250124200043.png",
-    "Media/Screenshot 2025-01-24 195200 4.png",
-    "Media/Screenshot 2025-01-24 195200 3.png",
-    "Media/Screenshot 2025-01-24 195200 2.png",
-    "Media/Screenshot 2025-01-24 195200 1.png",
     "Store level Config",
     "Stacking Limit.md",
     "Measure Creations",
