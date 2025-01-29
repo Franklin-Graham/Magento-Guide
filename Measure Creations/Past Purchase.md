@@ -15,7 +15,7 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
  ** Inventory Service: select "rebate"
  ** Skip Checkout: Enable
  ** Eligibility Check: Enable
- ** [[Eligibility App URL]]: (configure the link only if it VUE based application, if not leave blank)
+ ** [[Eligibility App URL]]: (Configure the link only if the application is VUE-based; otherwise, leave it blank)
 	 QA: https://static-qa.clearesult.io/components/general/product-recommendation-assessment-app.min.js
 	 PROD: [https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js](https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js "https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js")
 # Product in Websites**

@@ -1,5 +1,4 @@
 [[buy now explanation]]
-
 ## How to Create Buy Now product:
  
  CATALOG -> Products (create a new simple product)
@@ -32,7 +31,7 @@
 	  Configure it if required (Price Text will reflect in Product Tile on front-end)
   ** Program Id:
 	  config the PRJ as per the program
-  ** [[Eligibility App URL]]: (configure the link only if VUE based application, if not leave blank)
+  ** [[Eligibility App URL]]: (Configure the link only if the application is VUE-based; otherwise,   leave it blank.)
 	 QA: https://static-qa.clearesult.io/components/general/product-recommendation-assessment-app.min.js
 	 PROD: [https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js](https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js "https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js")	  
 # Attributes:
