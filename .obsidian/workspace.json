@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Explanation/buy now explanation.md",
+                "file": "Store level Config/Amazon to Magento Syncing Shipment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "buy now explanation"
+              "title": "Amazon to Magento Syncing Shipment"
             }
           },
           {
@@ -221,17 +221,25 @@
   },
   "active": "b0ea4872e33ad899",
   "lastOpenFiles": [
+    "Store level Config/Amazon Integration setup.md",
     "Measure Creations/BUY NOW.md",
+    "Store level Config/Amazon to Magento Syncing Shipment.md",
+    "Pasted image 20250129152433.png",
+    "Pasted image 20250129152406.png",
+    "Pasted image 20250129152333.png",
     "Measure Creations/Past Purchase.md",
-    "Other Explanation/Project Type.md",
-    "Store level Config/MiniOrange OAuth and SAML.md",
+    "Other Explanation/Past purchase Explanation.md",
     "Other Explanation/Measure Config JSON.md",
+    "Store level Config/Atlas Theme.md",
+    "Other Explanation/Price.md",
+    "Store level Config/Atlas Theme",
+    "Other Explanation/buy now explanation.md",
+    "Other Explanation/Project Type.md",
+    "Other Explanation/Device Manufacturer.md",
+    "Store level Config/MiniOrange OAuth and SAML.md",
     "Other Explanation/Pimcore.md",
     "Other Explanation/Cart Stacking Limit.md",
-    "Other Explanation/buy now explanation.md",
     "Other Explanation/Eligibility App URL.md",
-    "Other Explanation/Device Manufacturer.md",
-    "Other Explanation/Past purchase Explanation.md",
     "Other Explanation",
     "Media/Pasted image 20250124201738.png",
     "Media/Pasted image 20250124201921.png",
@@ -243,16 +251,11 @@
     "Media/Screenshot 2025-01-24 195200 3.png",
     "Media/Screenshot 2025-01-24 195200 2.png",
     "Media/Screenshot 2025-01-24 195200 1.png",
-    "Media/Screenshot 2025-01-24 195200.png",
-    "Store level Config/Amazon Integration setup.md",
-    "Other Explanation/Price.md",
     "Store level Config",
     "Stacking Limit.md",
     "Measure Creations",
     "Untitled.canvas",
     "2025-01-24.md",
-    "cart limit.md",
-    "Media/Pasted image 20250124015745.png",
-    "Media/Pasted image 20250124015040.png"
+    "cart limit.md"
   ]
 }

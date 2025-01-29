@@ -1,5 +1,7 @@
 This setup needs to be configured if Amazon products are within the scope.
 
+Also ensure this config [[Amazon to Magento Syncing Shipment]]
+
 How to Configure:
 STORES -> Configuration -> select website scope -> AMAZON BUSINESS
 
