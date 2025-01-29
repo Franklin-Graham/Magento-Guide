@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "669a04416c80b9f5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
+            }
+          },
+          {
             "id": "fa26c5f0b4c8b2e7",
             "type": "leaf",
             "state": {
@@ -68,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,18 +235,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c50efacd7560fbad",
+  "active": "669a04416c80b9f5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Measure Creations/test.md",
+    "Store level Config/Trade Ally Endpoints.md",
     "Store level Config/PreQualification Apps.md",
     "Store level Config/Vue App Config.md",
-    "Pasted image 20250129202057.png",
-    "Store level Config/Trade Ally Endpoints.md",
+    "Media/Pasted image 20250129202057.png",
     "Measure Creations/BUY NOW.md",
     "Other Config Explanation/buy now explanation.md",
     "Other Config Explanation/Price.md",
     "Measure Creations/Past Purchase.md",
-    "Pasted image 20250129200426.png",
-    "Pasted image 20250129200300.png",
+    "Media/Pasted image 20250129200426.png",
+    "Media/Pasted image 20250129200300.png",
     "Store level Config/MiniOrange OAuth and SAML.md",
     "Store level Config/SmartyStreets.md",
     "README.md",
