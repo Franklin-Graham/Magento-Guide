@@ -41,15 +41,15 @@
             "id": "669a04416c80b9f5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Store level Config/PreQualification Apps.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "PreQualification Apps"
             }
           },
           {
@@ -237,6 +237,7 @@
   },
   "active": "669a04416c80b9f5",
   "lastOpenFiles": [
+    "Pasted image 20250129203533.png",
     "conflict-files-obsidian-git.md",
     "Measure Creations/test.md",
     "Store level Config/Trade Ally Endpoints.md",
@@ -278,7 +279,6 @@
     "Stacking Limit.md",
     "Measure Creations",
     "Untitled.canvas",
-    "2025-01-24.md",
-    "cart limit.md"
+    "2025-01-24.md"
   ]
 }
