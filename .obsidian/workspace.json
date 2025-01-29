@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/PreQualification Apps.md",
+                "file": "Store level Config/GENERAL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PreQualification Apps"
+              "title": "GENERAL"
             }
           },
           {
@@ -237,11 +237,14 @@
   },
   "active": "669a04416c80b9f5",
   "lastOpenFiles": [
+    "Pasted image 20250129221803.png",
+    "Store level Config/PreQualification Apps.md",
+    "Store level Config/GENERAL.md",
+    "Pasted image 20250129221130.png",
     "Pasted image 20250129203533.png",
     "conflict-files-obsidian-git.md",
     "Measure Creations/test.md",
     "Store level Config/Trade Ally Endpoints.md",
-    "Store level Config/PreQualification Apps.md",
     "Store level Config/Vue App Config.md",
     "Media/Pasted image 20250129202057.png",
     "Measure Creations/BUY NOW.md",
@@ -266,8 +269,6 @@
     "Media/Pasted image 20250122182904.png",
     "Media/Screenshot 2025-01-22 181905.png",
     "Media/Pasted image 20250122181939.png",
-    "Media/Pasted image 20250129184342.png",
-    "Media/Pasted image 20250129184206.png",
     "Other Config Explanation/Past purchase Explanation.md",
     "Other Config Explanation/Measure Config JSON.md",
     "Store level Config/Atlas Theme",
@@ -278,7 +279,6 @@
     "Store level Config",
     "Stacking Limit.md",
     "Measure Creations",
-    "Untitled.canvas",
-    "2025-01-24.md"
+    "Untitled.canvas"
   ]
 }
