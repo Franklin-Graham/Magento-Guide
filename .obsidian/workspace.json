@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/Trade Ally Endpoints.md",
+                "file": "Store level Config/PreQualification Apps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trade Ally Endpoints"
+              "title": "PreQualification Apps"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/GENERAL.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GENERAL"
+              "title": "README"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,17 +235,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "669a04416c80b9f5",
+  "active": "1465d08ed2b78cf1",
   "lastOpenFiles": [
-    "Pasted image 20250129221803.png",
-    "Store level Config/PreQualification Apps.md",
     "Store level Config/GENERAL.md",
-    "Pasted image 20250129221130.png",
-    "Pasted image 20250129203533.png",
+    "Store level Config/MiniOrange OAuth and SAML.md",
+    "Store level Config/SmartyStreets.md",
+    "Store level Config/PreQualification Apps.md",
+    "Store level Config/Vue App Config.md",
+    "Store level Config/Trade Ally Endpoints.md",
+    "README.md",
+    "Media/Pasted image 20250129221803.png",
+    "Media/Pasted image 20250129221130.png",
+    "Media/Pasted image 20250129203533.png",
     "conflict-files-obsidian-git.md",
     "Measure Creations/test.md",
-    "Store level Config/Trade Ally Endpoints.md",
-    "Store level Config/Vue App Config.md",
     "Media/Pasted image 20250129202057.png",
     "Measure Creations/BUY NOW.md",
     "Other Config Explanation/buy now explanation.md",
@@ -253,9 +256,6 @@
     "Measure Creations/Past Purchase.md",
     "Media/Pasted image 20250129200426.png",
     "Media/Pasted image 20250129200300.png",
-    "Store level Config/MiniOrange OAuth and SAML.md",
-    "Store level Config/SmartyStreets.md",
-    "README.md",
     "hi.txt",
     "Store level Config/Amazon to Magento Syncing Shipment.md",
     "Store level Config/Amazon Integration setup.md",
@@ -268,7 +268,6 @@
     "Media/Pasted image 20250122183048.png",
     "Media/Pasted image 20250122182904.png",
     "Media/Screenshot 2025-01-22 181905.png",
-    "Media/Pasted image 20250122181939.png",
     "Other Config Explanation/Past purchase Explanation.md",
     "Other Config Explanation/Measure Config JSON.md",
     "Store level Config/Atlas Theme",
