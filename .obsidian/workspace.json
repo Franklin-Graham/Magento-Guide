@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/Magestat.md",
+                "file": "Store level Config/Cookie Compliance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magestat"
+              "title": "Cookie Compliance"
             }
           },
           {
@@ -207,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +222,12 @@
   },
   "active": "e9bcf244ad350503",
   "lastOpenFiles": [
-    "Store level Config/Draft.md",
     "Store level Config/Magestat.md",
+    "Store level Config/Cookie Compliance.md",
+    "Pasted image 20250130183242.png",
+    "Pasted image 20250130183022.png",
+    "Store level Config/Eligibility Wizard Configuration.md",
+    "Store level Config/Draft.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20250130155838.png",
     "Pasted image 20250130155241.png",
@@ -233,9 +237,6 @@
     "Media/Pasted image 20250129203533.png",
     "Pasted image 20250130162725.png",
     "Pasted image 20250130161040.png",
-    "Pasted image 20250130161013.png",
-    "Store level Config/Eligibility Wizard Configuration.md",
-    "Pasted image 20250129221803.png",
     "Store level Config/Vue App Config.md",
     "Store level Config/Atlas Theme.md",
     "Store level Config/PreQualification Apps.md",
@@ -259,7 +260,6 @@
     "Store level Config/Atlas Theme",
     "Other Config Explanation/buy now explanation.md",
     "Store level Config/MiniOrange OAuth and SAML.md",
-    "Other Config Explanation/Cart Stacking Limit.md",
     "Other Config Explanation",
     "Media",
     "Store level Config",
