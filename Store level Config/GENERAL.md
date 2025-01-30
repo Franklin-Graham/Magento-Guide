@@ -13,3 +13,5 @@ Configure the following settings as required:
     Specify the operating hours, which will be reflected in emails.
  
 ![[Pasted image 20250129221803.png]]
+
+Store Email Addresses
