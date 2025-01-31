@@ -9,6 +9,8 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
  ** Attribute Set: cr_past_purchase
  ** Product Name and SKU (Provide as reuired)
  ** Price (Not required for past purchase products, provide '0')
+ ** is Drafted?: Enable (if 'My Saved Application' requirement is in scope)
+	 ![[Pasted image 20250131155732.png]]
 # Content:
  ** Implement the product description in this section as required.
 # Clrearesult Config**

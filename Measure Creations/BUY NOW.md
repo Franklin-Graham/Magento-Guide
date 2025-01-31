@@ -10,6 +10,8 @@
 	Need to configure followings,
 	** MSRP price: 
 	** Customer price:
+ ** is Drafted?: Enable (if 'My Saved Application' requirement is in scope)
+	 ![[Pasted image 20250131155732.png]]
 # Content:
  ** Implement the product description in this section as required.
 # Product in Websites: (Important)
