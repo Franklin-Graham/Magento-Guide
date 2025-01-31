@@ -11,5 +11,6 @@ Step 3:  [[All store setup]]
 
 Step 4:  [[Atlas Theme Setup]]
 
-Step 4: Store Email Setup
+Step 4:  [[Store Email Setup]]
+
 
