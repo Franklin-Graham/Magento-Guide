@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measure Creations/BUY NOW.md",
+                "file": "Store level Config/Multi-Incentive.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BUY NOW"
+              "title": "Multi-Incentive"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,11 +190,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa26c5f0b4c8b2e7",
+  "active": "05daf7b626a1bd3c",
   "lastOpenFiles": [
+    "Pasted image 20250131164427.png",
+    "Pasted image 20250131164324.png",
+    "Pasted image 20250131162224.png",
+    "Measure Creations/BUY NOW.md",
+    "Store level Config/Multi-Incentive.md",
+    "Pasted image 20250131161806.png",
+    "Pasted image 20250131161201.png",
     "Pasted image 20250131160232.png",
     "conflict-files-obsidian-git.md",
-    "Store level Config/Multi-Incentive.md",
     "Store level Config/Store Email Setup.md",
     "Store level Config/Magento Root Category.md",
     "Store level Config/Atlas Theme Setup.md",
@@ -205,17 +212,11 @@
     "Pasted image 20250131145650.png",
     "Pasted image 20250130213305.png",
     "Pasted image 20250130213231.png",
-    "Pasted image 20250130213156.png",
-    "Pasted image 20250130205347.png",
-    "Pasted image 20250130205225.png",
-    "Pasted image 20250130202651.png",
-    "Pasted image 20250130202600.png",
     "Store level Config/Customers Configuration.md",
     "Store level Config/Cookie Compliance.md",
     "Store level Config/Atlas Theme.md",
     "Product Page.md",
     "Store level Config/Magestat.md",
-    "Measure Creations/BUY NOW.md",
     "Store level Config/Frank.md",
     "Test",
     "Store level Config/Eligibility Wizard Configuration.md",
