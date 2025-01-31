@@ -27,3 +27,26 @@ Setting up CAPTCHA in Magento helps prevent automated bots from performing actio
 Under Restrict My Account Address Editing Tab
 ![[Pasted image 20250130201120.png]]
 This is enabled to restrict editing the address in My account section in dashboard .
+
+
+## Features
+
+Go to Stores -> configuration -> select website scope -> Customers ->Features -> Contractor Autofill Feature
+###### Contractor Autofill Feature : Magento can auto-fill contractor details using stored customer information (e.g., name, address, phone number).
+Example: Selecting a contractor from a dropdown populates their company name, address, and contact info.
+
+
+![[Pasted image 20250131145608.png]]
+
+
+###### Save Trade Ally Contractor Data Feature:
+This feature is enabled to save the contractor data and sent to DSMT.
+
+![[Pasted image 20250131145820.png]]
+
+#### Wish List
+The **Wish List** feature in **Magento** allows customers to save products they are interested in for future purchase. This feature enhances user experience and increases conversions by reminding customers of their saved items.
+![[Pasted image 20250131152212.png]]
+- **Customers click “Add to Wish List”** on a product page.
+- Items are saved in their wish list under "My Account."
+- Customers can **move items to cart** or **share the wish list via email**.
