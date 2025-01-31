@@ -13,6 +13,7 @@ Configure the following settings as required:
  
 ![[Pasted image 20250129221803.png]]
 
+---
 ## Store Email Addresses
 The "Store Email Addresses" configuration in Magento is used to define and manage various email addresses associated with the store. These email addresses are used for different types of communications, such as customer support, order notifications, and general inquiries.
 
@@ -23,6 +24,7 @@ Eg:
 - If the email domain is @apple.com or any other domain, it must be added to the SendGrid platform for proper email delivery
 	![[Pasted image 20250130181521.png]]
 
+---
 ## Web:
  The "Web" configuration in Magento is used to manage various settings related to the store’s website, base URLs, and URL structure. It ensures proper website functionality, security, and user accessibility.
  

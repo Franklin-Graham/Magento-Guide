@@ -12,10 +12,16 @@
 	** Customer price:
  ** is Drafted?: Enable (if 'My Saved Application' requirement is in scope)
 	 ![[Pasted image 20250131155732.png]]
+
+---
 # Content:
  ** Implement the product description in this section as required.
+
+---
 # Product in Websites: (Important)
  ** Ensure the correct store is selected to reflect the product in Front-end
+
+---
 # [[Pimcore]]:
   ** Measure id: 
 	  The ID will provide by Pimcore Team (USED for measure calculation)
@@ -36,13 +42,20 @@
   ** [[Eligibility App URL]]: (Configure the link only if the application is VUE-based; otherwise,   leave it blank.)
 	 QA: https://static-qa.clearesult.io/components/general/product-recommendation-assessment-app.min.js
 	 PROD: [https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js](https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js "https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js")	  
+
+---
 # Attributes:
  ** [[Measure Config JSON]]: Config the json as required
  ** Inventory Service: "none" (if 'Buy Now' product)
  ** [[Project Type]]: Set as required
  ** [[Device Manufacturer]]: Set as required
+
+---
 # Amazon Product Identifier: 
 ** If the Product is Amazon Manufacture then add the Unique product identifier, which should be the SKU of the same product. ([[Amazon Integration setup]])![[Pasted image 20250122190434.png]]
 
+---
 # Note: 
 ** Always try to update the Product level config under store view scope.	![[Screenshot 2025-01-24 195200 4.png]]
+
+---

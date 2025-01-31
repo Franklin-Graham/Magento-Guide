@@ -8,8 +8,12 @@ Note **:  Once the HOMES product is created, add a related product. The purpose 
  ** Price (Not required for HOME products, provide '0')
  ** is Drafted?: Enable (if 'My Saved Application' requirement is in scope)
 	 ![[Pasted image 20250131155732.png]]
+
+---
 # Content:
  ** Implement the product description in this section as required.
+
+---
 # Clrearesult Config**
  ** Inventory Service: leave blank
  ** Skip Checkout: Enable
@@ -17,17 +21,19 @@ Note **:  Once the HOMES product is created, add a related product. The purpose 
  ** [[Eligibility App URL]]: (Configure the link only if the application is VUE-based; otherwise, leave it blank)
 	 QA: https://static-qa.clearesult.io/components/general/product-recommendation-assessment-app.min.js
 	 PROD: [https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js](https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js "https://static.clearesult.com/components/general/product-recommendation-assessment-app.min.js")
+
+---
 # Product in Websites**
  ** Ensure the correct store is selected to reflect the product in Front-end
+
+---
 # [[Pimcore]]**
   ** Measure id: 
 	  Measure-Id is just a place-holder, Ensure "Pimcore Program Id" configured in VUE
   ** Pimcore Product ID: 
 	  config if required (HOMES its not required)
   ** Incentive Category Group: (add if needed, most cases its not required for HOMES)
-	  
   ** Incentive Count: (add if needed, most cases its not required for HOMES)
-
   ** Incentive Type: 
 	  select 'rebate'
   ** Rebate Type:
@@ -45,5 +51,8 @@ Note **:  Once the HOMES product is created, add a related product. The purpose 
 	  config the PRJ as per the program
 	  Eg: ![[Pasted image 20250131225934.png]]
 
+---
 # Note: 
 ** Always try to update the Product level config under store view scope.	![[Screenshot 2025-01-24 195200 4.png]]
+
+---
