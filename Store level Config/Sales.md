@@ -6,7 +6,7 @@ Customer reminder email, when the product added to Cart and it was not placed
 	![[Pasted image 20250131170338.png]]
 - Set time interval by using 'Send After' option
   ![[Pasted image 20250131170630.png]]
-
+---
 ## Sales Emails:
 - Order:
   leave as default ![[Pasted image 20250131163635.png]]
@@ -22,3 +22,4 @@ Customer reminder email, when the product added to Cart and it was not placed
 - Credit Memo:
     Configure the credit memo Email
     ![[Pasted image 20250131164715.png]]
+---
