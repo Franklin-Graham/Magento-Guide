@@ -43,28 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/Store Email Setup.md",
+                "file": "Run Book/Store setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Store Email Setup"
-            }
-          },
-          {
-            "id": "c419778be06dc22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Store setup"
             }
           },
           {
@@ -113,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,22 +250,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c419778be06dc22b",
+  "active": "1465d08ed2b78cf1",
   "lastOpenFiles": [
+    "Store level Config/Multi-Incentive.md",
+    "Store level Config/Sales.md",
     "Store level Config/Store Email Setup.md",
     "conflict-files-obsidian-git.md",
-    "Store level Config/Sales.md",
-    "Store level Config/Multi-Incentive.md",
-    "Pasted image 20250131164427.png",
-    "Pasted image 20250131164324.png",
-    "Pasted image 20250131162224.png",
-    "Pasted image 20250131161806.png",
-    "Pasted image 20250131161201.png",
-    "Pasted image 20250131160232.png",
-    "Pasted image 20250131170630.png",
-    "Pasted image 20250131170338.png",
-    "Pasted image 20250131165904.png",
-    "Pasted image 20250131165735.png",
+    "Media/Pasted image 20250131164427.png",
+    "Media/Pasted image 20250131164324.png",
+    "Media/Pasted image 20250131162224.png",
+    "Media/Pasted image 20250131161806.png",
+    "Media/Pasted image 20250131161201.png",
+    "Media/Pasted image 20250131160232.png",
+    "Media/Pasted image 20250131170630.png",
+    "Media/Pasted image 20250131170338.png",
+    "Media/Pasted image 20250131165904.png",
+    "Media/Pasted image 20250131165735.png",
     "Sales Emails.md",
     "Run Book/Store setup.md",
     "Measure Creations/BUY NOW.md",
