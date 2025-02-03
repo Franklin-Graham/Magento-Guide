@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/Multi-Incentive.md",
+                "file": "Store level Config/Test Coupon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,59 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Multi-Incentive"
-            }
-          },
-          {
-            "id": "f0f47784c2fd50e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Store level Config/Page.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Page"
-            }
-          },
-          {
-            "id": "d404c969b36f97d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Store level Config/Avalara Tax Class Configuration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Avalara Tax Class Configuration"
+              "title": "Test Coupon"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,27 +200,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d404c969b36f97d1",
+  "active": "05daf7b626a1bd3c",
   "lastOpenFiles": [
+    "Pasted image 20250203191243.png",
+    "Pasted image 20250203190004.png",
+    "Store level Config/Multi-Incentive.md",
+    "Media/Pasted image 20250203164721.png",
+    "Store level Config/Test Coupon.md",
+    "Media/Pasted image 20250203165338.png",
     "Measure Creations/BUY NOW.md",
+    "README.md",
+    "Store level Config/Block.md",
     "Store level Config/Avalara Tax Class Configuration.md",
+    "Store level Config/Page.md",
+    "Media/Pasted image 20250203164459.png",
     "Measure Creations/HEAR.md",
     "Run Book/Store setup.md",
     "Other Config Explanation/buy now explanation.md",
-    "Pasted image 20250203182313.png",
-    "Pasted image 20250203182236.png",
-    "Store level Config/Block.md",
-    "Pasted image 20250203165338.png",
+    "Media/Pasted image 20250203182313.png",
+    "Media/Pasted image 20250203182236.png",
     "conflict-files-obsidian-git.md",
-    "Store level Config/Page.md",
     "Store level Config/CLEARESULT INTEGRATIONS.md",
-    "Pasted image 20250203164134.png",
+    "Media/Pasted image 20250203164134.png",
     "Media/Pasted image 20250203163145.png",
     "Media/Pasted image 20250203163048.png",
     "Media/Pasted image 20250203162723.png",
-    "Media/Pasted image 20250203161953.png",
-    "Media/Pasted image 20250203161019.png",
-    "Media/Pasted image 20250203160803.png",
     "Store level Config/Customer Rule.md",
     "Store level Config/SKIP CHECKOUT.md",
     "Store level Config/CATALOG.md",
@@ -279,14 +235,10 @@
     "Measure Creations/HOMES.md",
     "Store level Config/Eligibility Wizard Configuration.md",
     "Store level Config/Store Email Setup.md",
-    "Store level Config/Multi-Incentive.md",
     "Store level Config/Magento Root Category.md",
     "Store level Config/Atlas Theme Setup.md",
     "Store level Config/All store setup.md",
     "Run Book",
-    "Store level Config/Customers Configuration.md",
-    "Store level Config/Cookie Compliance.md",
-    "Store level Config/Atlas Theme.md",
     "Test",
     "New Text Document.txt",
     "Store level Config/Atlas Theme",
