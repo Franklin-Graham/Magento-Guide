@@ -39,6 +39,8 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
 	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and [[Cart Stacking Limit]].
   ** Incentive Count: 
 	  (Give default as "1", will vary based on Pac-Size)
+  ** Related Incentive SKUs:
+      Link the other products with the respective SKU's 
   ** Incentive Type: 
 	  select 'rebate'
   ** Rebate Type:
