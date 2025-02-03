@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "8371c0e641cf4019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Store level Config/SKIP CHECKOUT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SKIP CHECKOUT"
+            }
+          },
+          {
             "id": "669a04416c80b9f5",
             "type": "leaf",
             "state": {
@@ -98,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -250,11 +265,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9337676f0755635e",
+  "active": "8371c0e641cf4019",
   "lastOpenFiles": [
+    "Store level Config/Customer Rule.md",
+    "conflict-files-obsidian-git.md",
+    "Store level Config/SKIP CHECKOUT.md",
+    "Pasted image 20250203161019.png",
+    "Pasted image 20250203160803.png",
+    "Pasted image 20250203160514.png",
+    "Pasted image 20250203160013.png",
     "Pasted image 20250203161953.png",
     "Store level Config/CATALOG.md",
-    "Store level Config/SKIP CHECKOUT.md",
     "Store level Config/Sales.md",
     "Pasted image 20250203160159.png",
     "Pasted image 20250203160002.png",
@@ -263,14 +284,9 @@
     "Store level Config/Amazon Integration setup.md",
     "Pasted image 20250203154246.png",
     "Pasted image 20250203154212.png",
-    "Pasted image 20250203154027.png",
     "Measure Creations/BUY NOW.md",
     "Run Book/Store setup.md",
     "Store level Config/Magento Root Category.md",
-    "Pasted image 20250203153638.png",
-    "Pasted image 20250203152509.png",
-    "Pasted image 20250203151853.png",
-    "Pasted image 20250203151804.png",
     "Store level Config/PreQualification Apps.md",
     "Measure Creations/INCOME VERIFICATION.md",
     "Store level Config/Multi-Incentive.md",
@@ -287,7 +303,6 @@
     "Store level Config/Amazon to Magento Syncing Shipment.md",
     "Store level Config/MiniOrange OAuth and SAML.md",
     "Measure Creations/Past Purchase.md",
-    "Measure Creations/HEAR.md",
     "Run Book",
     "Test",
     "hi.txt",
