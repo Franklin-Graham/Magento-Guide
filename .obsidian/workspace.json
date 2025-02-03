@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measure Creations/BUY NOW.md",
+                "file": "Measure Creations/INCOME VERIFICATION.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BUY NOW"
+              "title": "INCOME VERIFICATION"
             }
           },
           {
@@ -295,16 +295,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fad8705a276e5494",
+  "active": "1465d08ed2b78cf1",
   "lastOpenFiles": [
+    "Measure Creations/BUY NOW.md",
     "Other Config Explanation/Past Purchase Flow.md",
     "Measure Creations/Past Purchase.md",
-    "Measure Creations/BUY NOW.md",
     "Other Config Explanation/Past purchase Explanation.md",
-    "Pasted image 20250203210033.png",
-    "Pasted image 20250203205358.png",
-    "Pasted image 20250203205331.png",
-    "Pasted image 20250203205253.png",
+    "Media/Pasted image 20250203210033.png",
+    "Media/Pasted image 20250203205358.png",
+    "Media/Pasted image 20250203205331.png",
+    "Media/Pasted image 20250203205253.png",
     "Measure Creations/Coupon.md",
     "Store level Config/Block.md",
     "Store level Config/Test Coupon.md",
