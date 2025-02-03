@@ -19,4 +19,5 @@ Step 5: Assign Products to the New Store
 - [[HOMES]]
 - [[HEAR]]
 - [[INCOME VERIFICATION]]
+- [[Coupon]]
 		 
