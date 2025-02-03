@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/Block.md",
+                "file": "Store level Config/Avalara Tax Class Configuration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,7 +91,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Block"
+              "title": "Avalara Tax Class Configuration"
             }
           }
         ],
@@ -152,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5
   },
   "right": {
     "id": "6c60db1addc7d187",
@@ -250,9 +250,16 @@
   },
   "active": "d404c969b36f97d1",
   "lastOpenFiles": [
+    "Measure Creations/BUY NOW.md",
+    "Store level Config/Avalara Tax Class Configuration.md",
+    "Measure Creations/HEAR.md",
+    "Run Book/Store setup.md",
+    "Other Config Explanation/buy now explanation.md",
+    "Pasted image 20250203182313.png",
+    "Pasted image 20250203182236.png",
+    "Store level Config/Block.md",
     "Pasted image 20250203165338.png",
     "conflict-files-obsidian-git.md",
-    "Store level Config/Block.md",
     "Store level Config/Page.md",
     "Store level Config/CLEARESULT INTEGRATIONS.md",
     "Pasted image 20250203164134.png",
@@ -262,9 +269,6 @@
     "Media/Pasted image 20250203161953.png",
     "Media/Pasted image 20250203161019.png",
     "Media/Pasted image 20250203160803.png",
-    "Media/Pasted image 20250203160514.png",
-    "Media/Pasted image 20250203160159.png",
-    "Media/Pasted image 20250203160013.png",
     "Store level Config/Customer Rule.md",
     "Store level Config/SKIP CHECKOUT.md",
     "Store level Config/CATALOG.md",
@@ -273,20 +277,16 @@
     "Other Config Explanation/HEAR Cart Product.md",
     "Measure Creations/INCOME VERIFICATION.md",
     "Measure Creations/HOMES.md",
-    "Measure Creations/HEAR.md",
     "Store level Config/Eligibility Wizard Configuration.md",
     "Store level Config/Store Email Setup.md",
     "Store level Config/Multi-Incentive.md",
-    "Measure Creations/BUY NOW.md",
     "Store level Config/Magento Root Category.md",
     "Store level Config/Atlas Theme Setup.md",
     "Store level Config/All store setup.md",
-    "Run Book/Store setup.md",
     "Run Book",
     "Store level Config/Customers Configuration.md",
     "Store level Config/Cookie Compliance.md",
     "Store level Config/Atlas Theme.md",
-    "Product Page.md",
     "Test",
     "New Text Document.txt",
     "Store level Config/Atlas Theme",
