@@ -30,15 +30,48 @@
               "state": {
                 "file": "Store level Config/Multi-Incentive.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Multi-Incentive"
             }
+          },
+          {
+            "id": "f0f47784c2fd50e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Store level Config/Customer Rule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Customer Rule"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +90,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,28 +224,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05daf7b626a1bd3c",
+  "active": "f0f47784c2fd50e1",
   "lastOpenFiles": [
+    "Pasted image 20250203161019.png",
+    "Pasted image 20250203160803.png",
+    "Pasted image 20250203160514.png",
+    "Pasted image 20250203160013.png",
+    "Store level Config/Eligibility Wizard Configuration.md",
+    "Store level Config/Store Email Setup.md",
+    "Store level Config/Customer Rule.md",
+    "Store level Config/Multi-Incentive.md",
     "Pasted image 20250131164427.png",
     "Pasted image 20250131164324.png",
     "Pasted image 20250131162224.png",
     "Measure Creations/BUY NOW.md",
-    "Store level Config/Multi-Incentive.md",
     "Pasted image 20250131161806.png",
     "Pasted image 20250131161201.png",
     "Pasted image 20250131160232.png",
     "conflict-files-obsidian-git.md",
-    "Store level Config/Store Email Setup.md",
     "Store level Config/Magento Root Category.md",
     "Store level Config/Atlas Theme Setup.md",
     "Store level Config/All store setup.md",
     "Run Book/Store setup.md",
     "Run Book",
     "Pasted image 20250131152543.png",
-    "Pasted image 20250131145749.png",
-    "Pasted image 20250131145650.png",
-    "Pasted image 20250130213305.png",
-    "Pasted image 20250130213231.png",
     "Store level Config/Customers Configuration.md",
     "Store level Config/Cookie Compliance.md",
     "Store level Config/Atlas Theme.md",
@@ -219,7 +255,6 @@
     "Store level Config/Magestat.md",
     "Store level Config/Frank.md",
     "Test",
-    "Store level Config/Eligibility Wizard Configuration.md",
     "Store level Config/Draft.md",
     "Store level Config/Test.md",
     "Store level Config/Vue App Config.md",
@@ -230,7 +265,6 @@
     "New Text Document.txt",
     "Other Config Explanation/Pimcore.md",
     "Other Config Explanation/Price.md",
-    "Other Config Explanation/Eligibility App URL.md",
     "Store level Config/Atlas Theme",
     "Other Config Explanation",
     "Media",
