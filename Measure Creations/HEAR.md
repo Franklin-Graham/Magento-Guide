@@ -1,14 +1,11 @@
-[[Past purchase Explanation]]:
-
-The HOMES and HEAR products setup similar to past purchase measure, Only the measure JSON structure will be change, please refer for further [[Measure Config JSON]]
-
-## How to Create a Past Purchase product:
+Note **:  Once the HEAR product is created, add a related product. The purpose of the related product is to ensure that when the HEAR Product is added to the cart, the product name and product icon will be differ in the Cart Page. [[HEAR Cart Product]]
+## How to Create a "HEAR" Application:
 
  Go to CATALOG -> Products (create a new Virtual product)
 	 ![[Screenshot 2025-01-22 193419.png]] 
  ** Attribute Set: cr_past_purchase
- ** Product Name and SKU (Provide as reuired)
- ** Price (Not required for past purchase products, provide '0')
+ ** Product Name and SKU (Provide as required)
+ ** Price (Not required for HEAR products, provide '0')
  ** is Drafted?: Enable (if 'My Saved Application' requirement is in scope)
 	 ![[Pasted image 20250131155732.png]]
 
@@ -18,7 +15,7 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
 
 ---
 # Clrearesult Config**
- ** Inventory Service: select "rebate"
+ ** Inventory Service: leave blank
  ** Skip Checkout: Enable
  ** Eligibility Check: Enable
  ** [[Eligibility App URL]]: (Configure the link only if the application is VUE-based; otherwise, leave it blank)
@@ -32,28 +29,30 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
 ---
 # [[Pimcore]]**
   ** Measure id: 
-	  The ID will provide by Pimcore Team (use for measure incentive and other savings calculations)
+	  Measure-Id is just a place-holder, Ensure "Program Mapping" configured in VUE for HEAR.
+	  Eg: ![[Pasted image 20250131230244.png]]
   ** Pimcore Product ID: 
-	  provide by pimcore Team (configure if its needed)
-  ** Incentive Category Group: (add if needed)
-	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and [[Cart Stacking Limit]].
-  ** Incentive Count: 
-	  (Give default as "1", will vary based on Pac-Size)
+	  config if required (HEAR its not required)
+  ** Incentive Category Group: (add if needed, most cases its not required for HEAR)
+  ** Incentive Count: (add if needed, most cases its not required for HEAR)
   ** Incentive Type: 
 	  select 'rebate'
   ** Rebate Type:
-	  select 'past purchase'
+	  select 'Rebate Reservation'
   ** [[Measure Config JSON]]:
-	  Config the JSON as required
+	  JSON Structure for HEAR:
+	  ![[Pasted image 20250131230411.png]]
+	  {"stepsFile":"hearRebateSelection","rebateType":"HEAR","accountDetailsEnabledFields":["account_number","account_holder_email_address","account_holder_phone_number","hear_about_us"]}
+	 
   ** Measure Class ID: 
 	  Configure as required (Used for Account validation check)
   ** Incentive Text:
 	  Configure it if required (Price Text will reflect in Product Tile on front-end)
   ** Program Id:
 	  config the PRJ as per the program
+	  Eg: ![[Pasted image 20250131225934.png]]
 
 ---
-
 # Note: 
 ** Always try to update the Product level config under store view scope.	![[Screenshot 2025-01-24 195200 4.png]]
 

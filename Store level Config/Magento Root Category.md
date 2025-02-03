@@ -15,6 +15,6 @@ In Magento, the **Root Category** is the top-level category in the category hier
 1. Click **Add Root Category**.
 		![[Pasted image 20250130202651.png]]
 2. In the **General Information** tab, enter:
-    - **Category Name** (e.g., "main_entergytx").
+    - **Category Name**: use the Store Code Name (e.g., "main_entergytx").
     - **Enable Category**: Select **Yes** to activate.
      ![[Pasted image 20250130205347.png]]

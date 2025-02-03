@@ -1,14 +1,11 @@
-[[Past purchase Explanation]]:
-
-The HOMES and HEAR products setup similar to past purchase measure, Only the measure JSON structure will be change, please refer for further [[Measure Config JSON]]
-
-## How to Create a Past Purchase product:
+This product tile will not be listed on the front end. It is designed to open an EW popup on the Pre-Qualification page.
+## How to Create a "INCOME VERIFICATION" Application:
 
  Go to CATALOG -> Products (create a new Virtual product)
 	 ![[Screenshot 2025-01-22 193419.png]] 
- ** Attribute Set: cr_past_purchase
- ** Product Name and SKU (Provide as reuired)
- ** Price (Not required for past purchase products, provide '0')
+ ** Attribute Set: cr_verification
+ ** Product Name and SKU (Provide as required)
+ ** Price (Not required for INCOME products, provide '0')
  ** is Drafted?: Enable (if 'My Saved Application' requirement is in scope)
 	 ![[Pasted image 20250131155732.png]]
 
@@ -18,7 +15,7 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
 
 ---
 # Clrearesult Config**
- ** Inventory Service: select "rebate"
+ ** Inventory Service: leave blank
  ** Skip Checkout: Enable
  ** Eligibility Check: Enable
  ** [[Eligibility App URL]]: (Configure the link only if the application is VUE-based; otherwise, leave it blank)
@@ -32,28 +29,31 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
 ---
 # [[Pimcore]]**
   ** Measure id: 
-	  The ID will provide by Pimcore Team (use for measure incentive and other savings calculations)
+	  Not required
   ** Pimcore Product ID: 
-	  provide by pimcore Team (configure if its needed)
-  ** Incentive Category Group: (add if needed)
-	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and [[Cart Stacking Limit]].
+	  Not required
+  ** Incentive Category Group: 
+	  Not required
   ** Incentive Count: 
-	  (Give default as "1", will vary based on Pac-Size)
+	  Not required
   ** Incentive Type: 
-	  select 'rebate'
+	  select 'cr_verification'
   ** Rebate Type:
-	  select 'past purchase'
+	  Not required
   ** [[Measure Config JSON]]:
-	  Config the JSON as required
+	  JSON Structure for Income verification:
+	  ![[Pasted image 20250131231615.png]]
+	  {"stepsFile": "incomeQualificationV2"}
+	 
   ** Measure Class ID: 
-	  Configure as required (Used for Account validation check)
+		Not Required
   ** Incentive Text:
-	  Configure it if required (Price Text will reflect in Product Tile on front-end)
+		 Not Required
   ** Program Id:
 	  config the PRJ as per the program
+	  Eg: ![[Pasted image 20250131225934.png]]
 
 ---
-
 # Note: 
 ** Always try to update the Product level config under store view scope.	![[Screenshot 2025-01-24 195200 4.png]]
 

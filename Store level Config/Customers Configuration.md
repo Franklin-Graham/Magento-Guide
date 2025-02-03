@@ -2,8 +2,8 @@ The **Customer Configuration** section in Magento allows store admins to manage 
  Go to Stores -> configuration -> select website scope -> Customers -> Customer Configuration
 ### Under Create New Account Options
 ![[Pasted image 20250130193206.png]]
-- Default Welcome Email :Configure this if password option is enabled during account creation. To turn off/on password option refer Product Page under [[Atlas Theme]] 
-- Default Welcome Email without password :  Configure this if password option is disabled during account creation. To turn off/on password option refer Product Page under [[Atlas Theme]] 
+- Default Welcome Email :Configure this if password option is enabled during account creation. To turn off/on password option refer 'Product Page' under [[Atlas Theme]] 
+- Default Welcome Email without password :  Configure this if password option is disabled during account creation. To turn off/on password option refer 'Product Page' under [[Atlas Theme]] 
 - Email sender : It has many options based on the requirement we choose Sales Representative.
 
 ### Under Password Options Tab 

@@ -33,7 +33,10 @@ The **"Ways to Save"** section on a **Category Page** in Magento highlights avai
 
 
 #### Cart Page
+This setup is configured to replace the product when adding it to the cart.
 
 Go to Stores -> configuration -> select website scope -> multi-incentive -> Cart Page 
-![[Pasted image 20250131164324.png]]
-![[Pasted image 20250131164427.png]]
+- Enable the module
+	![[Pasted image 20250131164324.png]]
+- Set the appropriate Product ID to replace the item in the cart page.
+	![[Pasted image 20250131235002.png]]
