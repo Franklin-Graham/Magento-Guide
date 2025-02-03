@@ -83,6 +83,18 @@
             }
           },
           {
+            "id": "fad8705a276e5494",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20250203191243.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250203191243"
+            }
+          },
+          {
             "id": "669a04416c80b9f5",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -282,9 +294,13 @@
   },
   "active": "1465d08ed2b78cf1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Other Config Explanation/Buy Now Flow.md",
+    "Store level Config/Test Coupon.md",
+    "Media/Pasted image 20250203191243.png",
+    "Media/Pasted image 20250203190004.png",
     "Measure Creations/BUY NOW.md",
     "Other Config Explanation/buy now explanation.md",
-    "Other Config Explanation/Buy Now Flow.md",
     "Store level Config/Block.md",
     "Media/Pasted image 20250203202845.png",
     "Media/Pasted image 20250203202805.png",
@@ -308,16 +324,12 @@
     "Measure Creations/Coupon.md",
     "Store level Config/Coupon Management Endpoints.md",
     "Store level Config/Coupon Handler.md",
-    "Media/Pasted image 20250203190625.png",
-    "Media/Pasted image 20250203190529.png",
     "Measure Creations/Past Purchase.md",
     "Store level Config/Page.md",
     "Store level Config/GENERAL.md",
-    "conflict-files-obsidian-git.md",
     "Store level Config/Avalara Tax Class Configuration.md",
     "Store level Config/Amasty Extension.md",
     "Store level Config/ADVANCED.md",
-    "Store level Config/CLEARESULT INTEGRATIONS.md",
     "Run Book",
     "Test",
     "hi.txt",
