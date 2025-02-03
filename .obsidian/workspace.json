@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measure Creations/INCOME VERIFICATION.md",
+                "file": "Run Book/Store setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INCOME VERIFICATION"
+              "title": "Store setup"
             }
           },
           {
@@ -295,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1465d08ed2b78cf1",
+  "active": "fad8705a276e5494",
   "lastOpenFiles": [
+    "Measure Creations/INCOME VERIFICATION.md",
     "Measure Creations/BUY NOW.md",
     "Other Config Explanation/Past Purchase Flow.md",
     "Measure Creations/Past Purchase.md",
@@ -332,7 +333,6 @@
     "Store level Config/Coupon Handler.md",
     "Store level Config/Page.md",
     "Store level Config/GENERAL.md",
-    "Store level Config/Avalara Tax Class Configuration.md",
     "Run Book",
     "Test",
     "hi.txt",
