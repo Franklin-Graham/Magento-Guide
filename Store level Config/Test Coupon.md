@@ -1,4 +1,4 @@
-A **coupon code** in Magento is used to offer discounts, promotions, or special deals to customers. This is used for placing order with out credit card in checkout page, applicable for buy now products.
+A **coupon code** in Magento is used to offer discounts, promotions, or special deals to customers. This is used for placing order with out credit card in Cart page, applicable for buy now products.
 Go to Marketing ->Cart Price Rules -> Add New Rule button
 ![[Pasted image 20250203190004.png]]
 Customer Groups: choose the required option available.
