@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measure Creations/Coupon.md",
+                "file": "Other Config Explanation/File Upload.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coupon"
+              "title": "File Upload"
             }
           },
           {
@@ -280,10 +280,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1465d08ed2b78cf1",
+  "active": "bf1ef915cb05e5ec",
   "lastOpenFiles": [
-    "Store level Config/Coupon Management Endpoints.md",
     "Measure Creations/Coupon.md",
+    "Other Config Explanation/File Upload.md",
+    "Store level Config/Coupon Management Endpoints.md",
     "Store level Config/Coupon Handler.md",
     "Media/Pasted image 20250203190625.png",
     "Media/Pasted image 20250203190529.png",
@@ -317,7 +318,6 @@
     "Store level Config/Magento Root Category.md",
     "Store level Config/PreQualification Apps.md",
     "Measure Creations/INCOME VERIFICATION.md",
-    "Store level Config/Multi-Incentive.md",
     "Run Book",
     "Test",
     "hi.txt",
