@@ -1,4 +1,6 @@
-This product tile will not be listed on the front end. It is designed to open an EW popup on the Pre-Qualification page.
+- This product tile will not be displayed on the front end. It is specifically designed to trigger an EW popup on the Pre-Qualification page. 
+- After creating the product, configure the store settings according to the instructions in the [[PreQualification Apps]] file.
+
 ## How to Create a "INCOME VERIFICATION" Application:
 
  Go to CATALOG -> Products (create a new Virtual product)

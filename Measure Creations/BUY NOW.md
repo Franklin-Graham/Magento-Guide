@@ -10,6 +10,13 @@
 	Need to configure followings,
 	** MSRP price: 
 	** Customer price:
+** Tax Class: Enable the custom Tax Code, otherwise select 'Taxable Goods'
+     ![[Pasted image 20250203152509.png]]
+ ** Quantity: 0
+ ** Weight: provide the weight as required (use to shipping calculation)
+ ** Categories: Select the required store category 
+ ** Visibility: Hide product in front-end
+ ** Model Number: As required
  ** is Drafted?: Enable (if 'My Saved Application' requirement is in scope)
 	 ![[Pasted image 20250131155732.png]]
 
