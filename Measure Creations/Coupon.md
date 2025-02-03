@@ -1,14 +1,14 @@
-[[Past purchase Explanation]]:
+Once created the coupon products, Ensure the Store level configuration for coupon settings
+[[Coupon Handler]] , [[Coupon Management Endpoints]]
 
-The HOMES and HEAR products setup similar to past purchase measure, Only the measure JSON structure will be change, please refer for further [[Measure Config JSON]]
-
-## How to Create a Past Purchase product:
+## How to Create a Coupon product:
 
  Go to CATALOG -> Products (create a new Virtual product)
 	 ![[Screenshot 2025-01-22 193419.png]] 
- ** Attribute Set: cr_past_purchase
- ** Product Name and SKU (Provide as reuired)
- ** Price (Not required for past purchase products, provide '0')
+ ** Attribute Set: cr_coupon
+ ** Product Name and SKU (Provide as required)
+ ** Price (Not required for coupon products, provide '0')
+ ** Coupon Batch ID: As required (Ensure the correct Id is provided. This will generate the Coupon once the order get placed)
  ** is Drafted?: Enable (if 'My Saved Application' requirement is in scope)
 	 ![[Pasted image 20250131155732.png]]
 
@@ -18,7 +18,7 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
 
 ---
 # Clrearesult Config**
- ** Inventory Service: select "rebate"
+ ** Inventory Service: select "coupon"
  ** Skip Checkout: Enable
  ** Eligibility Check: Enable
  ** [[Eligibility App URL]]: (Configure the link only if the application is VUE-based; otherwise, leave it blank)
@@ -38,13 +38,13 @@ The HOMES and HEAR products setup similar to past purchase measure, Only the mea
   ** Incentive Category Group: (add if needed)
 	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and [[Cart Stacking Limit]].
   ** Incentive Count: 
-	  (Give default as "1", will vary based on Pac-Size)
+	  (Give default as "1", will vary based on Pack-Size)
   ** Related Incentive SKUs:
       Link the other products with the respective SKU's 
   ** Incentive Type: 
-	  select 'rebate'
+	  select 'coupon'
   ** Rebate Type:
-	  select 'past purchase'
+	  unselect
   ** [[Measure Config JSON]]:
 	  Config the JSON as required
   ** Measure Class ID: 
