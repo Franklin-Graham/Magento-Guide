@@ -19,12 +19,16 @@ Step 2: Clone the Magento Repo in the Local Machine:
    open Terminal and command git clone <add the cloning repo>
    
 Step 3: Edit the file (magento-vars.php):
-	Once the cloning is done, the next step is to add the New store URL and Store Code in the 'magento-vars.php' file (use any tools like VS code for editing)
-	Add New elseif condition and add the store URL and Store Code
-	for Eg:
-	url: -entergytx.clearesult.io
-	Store code: main_entergytx
-	EC2-QA:
+	Once the cloning is complete, the next step is to add the new store URL and Store Code in the **`magento-vars.php`** file. You can use any code editor, such as **VS Code**, for editing.
+
+### Steps to Update:
+
+1. **Add a new `elseif` condition** to define the store URL and Store Code.
+    - **Example:**
+        - **URL:** `-entergytx.clearesult.io`
+        - **Store Code:** `main_entergytx`
+
+#### **For EC2-QA:**
 	elseif (isHttpHost("ec2-" . $defaultEnv . "-entergytx.clearesult.io")) {
 	        $_SERVER["MAGE_RUN_CODE"] = "main_entergytx";
 	        $_SERVER["MAGE_RUN_TYPE"] = "website";
@@ -33,7 +37,8 @@ Step 3: Edit the file (magento-vars.php):
 	once updated, in the same file update the below code for PROD as well with Prod url,
 	EC2-PROD:
 	Add new elseif condition
-	elseif (isHttpHost("entergytx.clearesult.com") || isHttpHost("ec2-" . $defaultEnv . "-entergytx.clearesult.io/")) {
+	
+	elseif (isHttpHost("entergytx.clearesult.com") || isHttpHost("ec2-" . $defaultEnv . "-entergytx.clearesult.io")) {
          $_SERVER["MAGE_RUN_CODE"] = "main_entergytx";
          $_SERVER["MAGE_RUN_TYPE"] = "website";
         }
