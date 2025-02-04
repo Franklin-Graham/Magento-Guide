@@ -1,6 +1,8 @@
 Azure Pull Request (PR) Request Guide:
 Why this PR needed? 
 	Requesting to add the new store creation URL in the backend code.
+	
+Note** : Ensure all below changes are done only in 'Develop' branch
 #### **Step 1: Create a New Branch**
 
 Before making changes, create a new branch from the latest "develop" branch.
