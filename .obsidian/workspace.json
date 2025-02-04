@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measure Creations/INCOME VERIFICATION.md",
+                "file": "Store level Config/Atlas Theme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INCOME VERIFICATION"
+              "title": "Atlas Theme"
             }
           },
           {
@@ -297,6 +297,8 @@
   },
   "active": "fad8705a276e5494",
   "lastOpenFiles": [
+    "Store level Config/Multi-Incentive.md",
+    "Measure Creations/INCOME VERIFICATION.md",
     "Store level Config/Eligibility Apps.md",
     "Store level Config/Block.md",
     "Media/Pasted image 20250203230219.png",
@@ -313,7 +315,6 @@
     "Measure Creations/Past Purchase.md",
     "Other Config Explanation/Buy Now Flow.md",
     "Measure Creations/BUY NOW.md",
-    "Measure Creations/INCOME VERIFICATION.md",
     "Other Config Explanation/Past Purchase Flow.md",
     "Other Config Explanation/Past purchase Explanation.md",
     "Media/Pasted image 20250203210033.png",

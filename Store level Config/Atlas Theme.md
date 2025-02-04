@@ -37,6 +37,18 @@ Back link On Header:
 		   ![[Pasted image 20250129163347.png]]
 
 ---
+## Home Page:
+**Home Page Configuration as per customer Role:**  
+Stores -> Configurations -> Select website scope -> Atlas Theme -> Home Page
+
+**TA Landing Page Configuration in Magento:**  
+Stores -> Configurations -> Select website scope -> CLEAResult Integrations -> General
+
+**TA Landing Page Configuration in Magento:**  
+Stores -> Configurations -> Select website scope -> CLEAResult Integrations -> General
+**Redirect Post Login for TA Users:** provide the path to land
+
+---
 ## Cart Page:
  Configure this setup to display the necessary fields or attributes on the cart page in the front end.
   ![[Pasted image 20250129184342.png]]
