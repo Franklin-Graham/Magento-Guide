@@ -80,4 +80,10 @@ Step 4: Git pull command
 			The magento-vars.php file is modified, staged, committed, and then pushed to the remote repository.
 			This process is typically followed when working on a new feature to keep the  branch updated and ready for review.
 			
+	Step 5: Create New pull request:
+	       Title: provide any store related name
+	       Description: add as required
+	       Reviewers: choose the reviewer from platform team for Approval
+	       Work items to link: select the relevant work item.
+			
 			
