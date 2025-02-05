@@ -174,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pack size",
+                "query": "pack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -295,7 +296,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1465d08ed2b78cf1",
+  "active": "273740353bf698fc",
   "lastOpenFiles": [
     "Other Config Explanation/Pull Request.md",
     "Run Book/Store setup.md",
