@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/Block.md",
+                "file": "Other Config Explanation/Header and Footer Email config.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Block"
+              "title": "Header and Footer Email config"
             }
           },
           {
@@ -297,6 +297,15 @@
   },
   "active": "fad8705a276e5494",
   "lastOpenFiles": [
+    "Store level Config/Store Email Setup.md",
+    "Run Book/Store setup.md",
+    "Other Config Explanation/Header and Footer Email config.md",
+    "Pasted image 20250206162306.png",
+    "Pasted image 20250206162237.png",
+    "Pasted image 20250206161921.png",
+    "Other Config Explanation/Portal Logo.md",
+    "Pasted image 20250206161630.png",
+    "Store level Config/Block.md",
     "README.md",
     "Other Config Explanation/Magento Marketing Redirect Setup Guide.md",
     "Other Config Explanation/Home Page Widget.md",
@@ -306,7 +315,6 @@
     "Store level Config/Amasty Extension.md",
     "Store level Config/CLEARESULT INTEGRATIONS.md",
     "Other Config Explanation/Pull Request.md",
-    "Run Book/Store setup.md",
     "Other Config Explanation/Filter.md",
     "Media/Pasted image 20250205192423.png",
     "Media/Pasted image 20250205192349.png",
@@ -318,21 +326,12 @@
     "Measure Creations/BUY NOW.md",
     "Other Config Explanation/Lambda Pull Request.md",
     "Media/Pasted image 20250204204420.png",
-    "Media/Pasted image 20250204200759.png",
-    "Media/Pasted image 20250204200747.png",
-    "Media/Pasted image 20250204192105.png",
-    "Media/Pasted image 20250204192024.png",
     "Measure Creations/HOMES.md",
     "Store level Config/Vue App Config.md",
     "Store level Config/Amazon to Magento Syncing Shipment.md",
     "Store level Config/SmartyStreets.md",
-    "Store level Config/Store Email Setup.md",
     "Store level Config/Atlas Theme Setup.md",
     "Store level Config/All store setup.md",
-    "Store level Config/Magento Root Category.md",
-    "Store level Config/MiniOrange OAuth and SAML.md",
-    "Store level Config/Atlas Theme.md",
-    "Store level Config/Multi-Incentive.md",
     "Run Book",
     "Test",
     "hi.txt",

@@ -57,4 +57,14 @@
 		Template : Abandoned Carts 
 		![[Pasted image 20250131165904.png]]
 		Steps to Configure Cart Reminder Email : view the setup under [[Sales]]
+		
 ---
+
+- Header and Footer Email:
+  Template : Header
+	    This is the block for Email Header
+  Template: Footer
+        This is the block for Email Footer
+        ![[Pasted image 20250206162237.png]]
+        ![[Pasted image 20250206162306.png]]
+    Steps to Configure Header and Footer Email : view the setup under [[Header and Footer Email config]]
