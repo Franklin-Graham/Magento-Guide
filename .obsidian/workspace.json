@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Config Explanation/Header and Footer Email config.md",
+                "file": "Store level Config/Customers Configuration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Header and Footer Email config"
+              "title": "Customers Configuration"
             }
           },
           {
@@ -174,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "widget",
+                "query": "password",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -295,11 +296,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1465d08ed2b78cf1",
+  "active": "fad8705a276e5494",
   "lastOpenFiles": [
+    "Store level Config/Atlas Theme.md",
+    "Other Config Explanation/Header and Footer Email config.md",
     "Store level Config/Store Email Setup.md",
     "Run Book/Store setup.md",
-    "Other Config Explanation/Header and Footer Email config.md",
     "Media/Pasted image 20250206162306.png",
     "Media/Pasted image 20250206162237.png",
     "Media/Pasted image 20250206161921.png",
