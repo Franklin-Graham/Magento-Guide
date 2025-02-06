@@ -1,5 +1,6 @@
 Why this PR needed? 
 	PR for Order sync from Magento to Salesforce
+	 Order Flow : Magento -> Lambda -> DSMT/ATLAS(salesforce)
 Note** : Ensure all below changes are done only in 'Develop' branch
 
 Step 1: Create a new branch in Azure
