@@ -37,5 +37,5 @@ Step 5: Create New pull request:
 	       Reviewers: choose the reviewer from platform team for Approval
 	       Work items to link: select the relevant work item.
 	       
-	       
+	     *Once got an Approval, merge the code
 Note** : Ensure all changes are done only in Develop branch
