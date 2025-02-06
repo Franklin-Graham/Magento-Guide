@@ -49,6 +49,11 @@ Stores -> Configurations -> Select website scope -> CLEAResult Integrations -> G
 **Redirect Post Login for TA Users:** provide the path to land
 
 ---
+## Category Page:
+This will show compare product option on front-end, set to 'No' to disable this feature
+Compare Products: NO
+
+
 ## Cart Page:
  Configure this setup to display the necessary fields or attributes on the cart page in the front end.
   ![[Pasted image 20250129184342.png]]
