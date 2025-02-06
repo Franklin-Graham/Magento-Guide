@@ -17,6 +17,7 @@ Worked Items to link: Select the work item of store creation
 
 Step 2: Clone the Magento Repo in the Local Machine:
    Clone this repo in local: https://dev.azure.com/clearesultdev/Digital%20Platform/_git/org.digital.ec.magento/
+   
    How to clone?
    open Terminal and command git clone <add the cloning repo>
    
