@@ -44,6 +44,14 @@ Check the [[Past Purchase Flow]]
 	  select 'past purchase'
   ** [[Measure Config JSON]]:
 	  Config the JSON as required
+	  ![[Pasted image 20250206170830.png]]
+			{
+		      "stepsFile": "pastPurchaseRebateSelection",
+			    "accountDetailsEnabledFields": [
+			    "preferred_contact_method",
+			    "hear_about_us"
+			    ]
+			}
   ** Measure Class ID: 
 	  Configure as required (Used for Account validation check)
   ** Incentive Text:

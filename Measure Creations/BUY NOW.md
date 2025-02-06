@@ -56,6 +56,8 @@ Check the Buy Now Flow [[Buy Now Flow]]
 ---
 # Attributes:
  ** [[Measure Config JSON]]: Config the json as required
+	 ![[Pasted image 20250206170755.png]]
+	 {"stepsFile": "buyNow"}
  ** Inventory Service: "none" (if 'Buy Now' product)
  ** [[Project Type]]: Set as required
  ** [[Device Manufacturer]]: Set as required
