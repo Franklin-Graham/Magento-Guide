@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Config Explanation/Lambda Pull Request.md",
+                "file": "Other Config Explanation/Filter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lambda Pull Request"
+              "title": "Filter"
             }
           },
           {
@@ -297,8 +297,8 @@
   },
   "active": "fad8705a276e5494",
   "lastOpenFiles": [
-    "Other Config Explanation/Pull Request.md",
     "Other Config Explanation/Lambda Pull Request.md",
+    "Other Config Explanation/Pull Request.md",
     "Other Config Explanation/Visual Swatch Color.md",
     "Store level Config/Customers Configuration.md",
     "Store level Config/Atlas Theme.md",
