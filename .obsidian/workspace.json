@@ -174,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "atlas theme",
+                "query": "compare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,9 +298,10 @@
   },
   "active": "fad8705a276e5494",
   "lastOpenFiles": [
+    "Measure Creations/BUY NOW.md",
+    "Store level Config/Atlas Theme.md",
     "Measure Creations/Past Purchase.md",
     "Pasted image 20250206170830.png",
-    "Measure Creations/BUY NOW.md",
     "Pasted image 20250206170755.png",
     "Measure Creations/Coupon.md",
     "Measure Creations/INCOME VERIFICATION.md",
@@ -318,7 +319,6 @@
     "Other Config Explanation/Pull Request.md",
     "Other Config Explanation/Visual Swatch Color.md",
     "Store level Config/Customers Configuration.md",
-    "Store level Config/Atlas Theme.md",
     "Other Config Explanation/Header and Footer Email config.md",
     "Store level Config/Store Email Setup.md",
     "Media/Pasted image 20250206162306.png",

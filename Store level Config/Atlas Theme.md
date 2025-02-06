@@ -50,18 +50,20 @@ Stores -> Configurations -> Select website scope -> CLEAResult Integrations -> G
 
 ---
 ## Category Page:
+Stores -> Configurations -> Select website scope -> Atlas Theme -> Category Page
 This will show compare product option on front-end, set to 'No' to disable this feature
 Compare Products: NO
 
-
+---
 ## Cart Page:
+Stores -> Configurations -> Select website scope -> Atlas Theme -> Cart Page
  Configure this setup to display the necessary fields or attributes on the cart page in the front end.
   ![[Pasted image 20250129184342.png]]
 
 ---
 ## Configure Messages:
-This setup is used to configure to update verbiage text in the front-end
-for eg: (need to configure the original Message and the new required text- If the changes not reflected try to clear Magento Cache).
+Stores -> Configurations -> Select website scope -> Atlas Theme -> Configure Messages
+This setup is used to configure to update verbiage text in the front-end.
 	![[Pasted image 20250129183659.png]]
 Past Purchase Label (Rebate Product):
      Change the verbiage/text for Rebate products using this config(Area it will reflect under -> 'Product list - button', 'product detail page', 'cart page', 'success page')
