@@ -6,7 +6,8 @@ How to setup?
 - Content -> Pages -> Create or Edit a Home page 
 - Click 'Insert Widget' from the top menu. (Before that, place the cursor where you want to insert the widget.)
   ![[Pasted image 20250206150714.png]]
-  Setup the settings as below or as required: 
+  
+- Setup the settings as below or as required: 
   widget Type: Catalog Products List
   Title: As required
   Number of Products per page: 1
