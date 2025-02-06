@@ -174,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "return",
+                "query": "widget",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -295,7 +296,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fad8705a276e5494",
+  "active": "273740353bf698fc",
   "lastOpenFiles": [
     "Pasted image 20250206151407.png",
     "Pasted image 20250206150714.png",

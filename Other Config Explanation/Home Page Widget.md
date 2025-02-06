@@ -1,4 +1,5 @@
 By doing this setup, we can enable product tiles on Home page
+
 ![[Pasted image 20250206150458.png]]
 
 How to setup?
@@ -6,6 +7,12 @@ How to setup?
 - Click 'Insert Widget' from the top menu. (Before that, place the cursor where you want to insert the widget.)
   ![[Pasted image 20250206150714.png]]
   Setup the settings as below or as required: 
+  widget Type: Catalog Products List
+  Title: As required
+  Number of Products per page: 1
+  Number of Products to Display: set the number of products that need to be display
+  Template: Products Grid Template
+  Conditions: SKU -> Is one of -> provide 'SKU' of the products to display
   ![[Pasted image 20250206151407.png]]
   
 - Are use the below code instead of Widget setting by changing few changes:
