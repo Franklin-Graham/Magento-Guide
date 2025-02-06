@@ -1,4 +1,5 @@
 ## Design **
+ Stores -> Configurations -> Select website scope -> Atlas Theme -> Design
 configure the color code as required: The changes will reflect on buttons and some other sections.
 	![[Pasted image 20250129154342.png]]
 	Frontend App Colors: changes will reflect on Eligibility wizards/Enrollment wizard
@@ -6,6 +7,7 @@ configure the color code as required: The changes will reflect on buttons and so
 
 ---
 ## Menu ** 
+ Stores -> Configurations -> Select website scope -> Atlas Theme -> Menu
    Use Custom Link Sort Order: 
 		Enable it, if custom tab is required
 		![[Pasted image 20250129155232.png]]
@@ -20,6 +22,7 @@ configure the color code as required: The changes will reflect on buttons and so
 
 ---
 ## Header:
+ Stores -> Configurations -> Select website scope -> Atlas Theme -> Header
  Top Menu Configuration: use the default
 	  ![[Pasted image 20250129162134.png]]
 Back link On Header: 
@@ -31,6 +34,7 @@ Back link On Header:
 
 ---
 ## Product Page
+ Stores -> Configurations -> Select website scope -> Atlas Theme -> Product Page
    Customer Create Options:
 	Enable the password option on the front end during account creation by using the "Hide Sign In Information" setting.
 			To hide this section, select "No."
