@@ -3,6 +3,7 @@ Why this PR needed?
 	Requesting to add the new store creation URL in the backend code.
 	
 Note** : Ensure all below changes are done only in 'Develop' branch
+- Raise this PR only in the develop branch. It will be moved to QA and PROD by the Product team.
 #### **Step 1: Create a New Branch**
 
 Before making changes, create a new branch from the latest "develop" branch.

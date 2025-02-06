@@ -2,6 +2,7 @@ Why this PR needed?
 	PR for Order sync from Magento to Salesforce
 	 Order Flow : Magento -> Lambda -> DSMT/ATLAS(salesforce)
 Note** : Ensure all below changes are done only in 'Develop' branch
+- Raise this PR only in the develop branch. It will be moved to QA and PROD by the Product team.
 
 Step 1: Create a new branch in Azure
 
@@ -40,3 +41,4 @@ Step 5: Create New pull request:
 	       
 	     *Once got an Approval, merge the code
 Note** : Ensure all changes are done only in Develop branch
+
