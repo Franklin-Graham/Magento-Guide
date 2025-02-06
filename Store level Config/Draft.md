@@ -9,5 +9,5 @@ Under 'Show My Saved Applications Link in Account Page' Tab enable the module
 		Select the product type for which need the draft option
   
 ## Note:
-   Ensure the draft option is enable in product level config as well [[BUY NOW]], [[Past Purchase]]
+   Ensure the draft option is enable in product level config as well [[BUY NOW]], [[Past Purchase]],[[HEAR]], [[HOMES]]
    ![[Pasted image 20250130170203.png]]
