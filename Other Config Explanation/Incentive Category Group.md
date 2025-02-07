@@ -1,0 +1,1 @@
+This is a product-level configuration that needs to be set based on the category response from the Account Validation API. If this setup is not configured, the backend assumes there is no limit for the customer and returns "Out of Stock" for the product.
