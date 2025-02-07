@@ -35,7 +35,7 @@ Once created the coupon products, Ensure the Store level configuration for coupo
 	  The ID will provide by Pimcore Team (use for measure incentive and other savings calculations)
   ** Pimcore Product ID: 
 	  provide by pimcore Team (configure if its needed)
-  ** Incentive Category Group: (add if needed)
+  ** Incentive Category Group: (add if needed) [[Incentive Category Group]]
 	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and [[Cart Stacking Limit]].
   ** Incentive Count: 
 	  (Give default as "1", will vary based on Pack-Size)
