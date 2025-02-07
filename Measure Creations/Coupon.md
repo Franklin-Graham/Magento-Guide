@@ -47,6 +47,7 @@ Once created the coupon products, Ensure the Store level configuration for coupo
 	  unselect
   ** [[Measure Config JSON]]:
 	  Config the JSON as required
+	  {"stepsFile":"retailCoupons","accountDetailsEnabledFields":["account_number","account_holder_email_address","account_holder_phone_number","hear_about_us"]}
   ** Measure Class ID: 
 	  Configure as required (Used for Account validation check)
   ** Incentive Text:
