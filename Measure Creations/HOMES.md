@@ -14,7 +14,7 @@ Note **:  Once the HOMES product is created, add a related product. The purpose 
  ** Implement the product description in this section as required.
 
 ---
-# Clrearesult Config**
+# Clearesult Config**
  ** Inventory Service: leave blank
  ** Skip Checkout: Enable
  ** Eligibility Check: Enable
