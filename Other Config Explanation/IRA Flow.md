@@ -7,12 +7,10 @@ Measures Types:
 2. HOMES or saved Application
 3. HEARs
 
-
 Income Qualification:
 step 1: Prequalification Product setup (Magento)
 step 2: Prequalification store level config (Magento)
 step 3: VUE setup
-
 
 HOMES:
 Step 1: HOMES Product setup (Magento)
