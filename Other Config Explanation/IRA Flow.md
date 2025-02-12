@@ -1,5 +1,5 @@
 New Store Creation:
-user  story(sample): https://clearesultdev.visualstudio.com/DSMT/_workitems/edit/452072
+user story(sample): https://clearesultdev.visualstudio.com/DSMT/_workitems/edit/452072
 
 Measures Types:
 1. Income qualify
