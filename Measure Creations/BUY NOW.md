@@ -1,4 +1,5 @@
 [[buy now explanation]]
+Check the Buy Now Flow [[Buy Now Flow]]
 ## How to Create Buy Now product:
  
  CATALOG -> Products (create a new simple product)

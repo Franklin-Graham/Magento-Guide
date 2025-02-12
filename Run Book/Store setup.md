@@ -1,6 +1,6 @@
 To create a new store in Magento follow the below steps:
 
-Step 1:  Raising pull Request
+Step 1:  Raising pull Request and DNS
         The first step in creating a new store is to submit a Pull Request (PR) in Azure.   Please refer to the relevant tickets for guidance.
          Store creation ticket: https://clearesultdev.visualstudio.com/DSMT/_workitems/edit/467966
          PR Ticket: https://clearesultdev.visualstudio.com/Digital%20Platform/_git/org.digital.ec.magento/pullrequest/83774

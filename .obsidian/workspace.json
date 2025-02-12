@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Store level Config/Avalara Tax Class Configuration.md",
+                "file": "Run Book/Store setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,31 +43,22 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Avalara Tax Class Configuration"
+              "title": "Store setup"
             }
           },
           {
-            "id": "9a2c873d2bc603b5",
+            "id": "170b3e15141e828c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Measure Creations/HOMES.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Measure Creations/INCOME VERIFICATION.md",
+                "bFile": "Measure Creations/INCOME VERIFICATION.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "HOMES"
+              "icon": "diff",
+              "title": "Diff: INCOME VERIFICATION"
             }
           }
         ],
@@ -128,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 329.5
   },
   "right": {
     "id": "6c60db1addc7d187",
@@ -224,43 +215,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a2c873d2bc603b5",
+  "active": "170b3e15141e828c",
   "lastOpenFiles": [
-    "Measure Creations/BUY NOW.md",
+    "Measure Creations/INCOME VERIFICATION.md",
     "Run Book/Store setup.md",
-    "Store level Config/Test Coupon.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20250203192540.png",
+    "Store level Config/Atlas Theme Setup.md",
+    "Store level Config/MiniOrange OAuth and SAML.md",
+    "Store level Config/CLEARESULT INTEGRATIONS.md",
+    "Store level Config/Avalara Tax Class Configuration.md",
+    "Store level Config/Eligibility Wizard Configuration.md",
+    "Store level Config/Amazon to Magento Syncing Shipment.md",
+    "Measure Creations/BUY NOW.md",
+    "Other Config Explanation/Eligibility App URL.md",
+    "Measure Creations/Past Purchase.md",
+    "Store level Config/Store Email Setup.md",
+    "Store level Config/All store setup.md",
+    "Store level Config/Magento Root Category.md",
+    "Measure Creations/HOMES.md",
+    "Media/Pasted image 20250203202610.png",
+    "Other Config Explanation/Cart Stacking Limit.md",
+    "Store level Config/Eligibility Apps.md",
+    "Other Config Explanation/Past Purchase Flow.md",
+    "Other Config Explanation/Buy Now Flow.md",
+    "Media/Pasted image 20250203230219.png",
+    "Media/Pasted image 20250203225842.png",
+    "Media/Pasted image 20250203225353.png",
+    "Media/Pasted image 20250203210033.png",
+    "Media/Pasted image 20250203205358.png",
+    "Media/Pasted image 20250203205331.png",
+    "Media/Pasted image 20250203205253.png",
+    "Media/Pasted image 20250203202845.png",
+    "Media/Pasted image 20250203202805.png",
+    "Store level Config/Test Coupon.md",
     "Other Config Explanation/Visual Swatch Color.md",
     "Other Config Explanation/Configurable Products.md",
-    "Store level Config/Avalara Tax Class Configuration.md",
     "Store level Config/Coupon Management Endpoints.md",
     "Store level Config/Coupon Handler.md",
     "Store level Config/Amasty Extension.md",
-    "Store level Config/ADVANCED.md",
-    "Other Config Explanation/File Upload.md",
-    "Media/Pasted image 20250203190625.png",
-    "Media/Pasted image 20250203190529.png",
-    "Media/Pasted image 20250203183936.png",
-    "Media/Pasted image 20250203183633.png",
-    "Measure Creations/Coupon.md",
-    "Pasted image 20250203191243.png",
-    "Pasted image 20250203190004.png",
-    "Store level Config/Multi-Incentive.md",
-    "Media/Pasted image 20250203164721.png",
-    "Media/Pasted image 20250203165338.png",
-    "README.md",
-    "Store level Config/Block.md",
-    "Store level Config/Page.md",
-    "Media/Pasted image 20250203164459.png",
-    "Measure Creations/HEAR.md",
-    "Other Config Explanation/buy now explanation.md",
-    "Store level Config/CLEARESULT INTEGRATIONS.md",
-    "Store level Config/Customer Rule.md",
-    "Store level Config/SKIP CHECKOUT.md",
-    "Store level Config/CATALOG.md",
-    "Store level Config/Sales.md",
-    "Other Config Explanation/HOMES Cart Product.md",
     "Run Book",
     "Test",
     "New Text Document.txt",

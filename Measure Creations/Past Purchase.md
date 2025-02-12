@@ -1,7 +1,4 @@
-[[Past purchase Explanation]]:
-
-The HOMES and HEAR products setup similar to past purchase measure, Only the measure JSON structure will be change, please refer for further [[Measure Config JSON]]
-
+Check the [[Past Purchase Flow]]
 ## How to Create a Past Purchase product:
 
  Go to CATALOG -> Products (create a new Virtual product)
