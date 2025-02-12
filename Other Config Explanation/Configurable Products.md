@@ -1,3 +1,5 @@
+
+Sample Product for Reference: https://ec2-qa-entergytx.clearesult.io/google-nest-learning-thermostat
 ### **Magento Configurable Product Setup Guide**
 
 A **Configurable Product** in Magento allows customers to choose options (e.g., color) while managing inventory separately for each variation.
@@ -17,7 +19,6 @@ A **Configurable Product** in Magento allows customers to choose options (e.g., 
 - **SKU**: Set a unique identifier (e.g., `smartThermostat-Config`)
 - **Price**: Leave blank (each variation will have its own price)
 - **Tax Class**: Select applicable tax
-- **Stock Status**: Choose **In Stock**
 - **Categories**: Assign to relevant category
 - **Description & Short Description**: Add product details
 

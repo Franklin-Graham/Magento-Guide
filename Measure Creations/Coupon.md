@@ -35,7 +35,7 @@ Once created the coupon products, Ensure the Store level configuration for coupo
 	  The ID will provide by Pimcore Team (use for measure incentive and other savings calculations)
   ** Pimcore Product ID: 
 	  provide by pimcore Team (configure if its needed)
-  ** Incentive Category Group: (add if needed)
+  ** Incentive Category Group: (add if needed) [[Incentive Category Group]]
 	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and [[Cart Stacking Limit]].
   ** Incentive Count: 
 	  (Give default as "1", will vary based on Pack-Size)
@@ -47,6 +47,7 @@ Once created the coupon products, Ensure the Store level configuration for coupo
 	  unselect
   ** [[Measure Config JSON]]:
 	  Config the JSON as required
+	  {"stepsFile":"retailCoupons","accountDetailsEnabledFields":["account_number","account_holder_email_address","account_holder_phone_number","hear_about_us"]}
   ** Measure Class ID: 
 	  Configure as required (Used for Account validation check)
   ** Incentive Text:

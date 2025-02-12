@@ -30,9 +30,9 @@ Avalara Tax:
 - Extension mode : leave default
   ![[Pasted image 20250203145451.png]]
 - Sales Tax:
-  Tax mode: Estimate Tax (QA Environment)
+  Tax mode: Estimate Tax (Set only to "Estimate Tax & Submit Transaction to AvaTax (default)" when the program go's live)
   ![[Pasted image 20250203150136.png]]
-  Tax mode: Estimate Tax & Submit Transaction to AvaTax (default) (PROD)
+  Tax mode: Estimate Tax & Submit Transaction to AvaTax (default) -> (Enable only when the product is LIVE)**
   ![[Pasted image 20250203150223.png]]
   Taxable Countries: Configure the required country
   ![[Pasted image 20250203150406.png]]

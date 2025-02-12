@@ -38,3 +38,4 @@ Go to - Stores -> Configuration -> select website scope -> Product Incentive Lim
 Other setting configure as below:
 ![[Pasted image 20250203164134.png]]
 
+NOTE** : Once the limit feature is enabled, the default quantity should be set to 1 from the Pimcore end as the user input. This will be handled by the Pimcore team, not Magento.

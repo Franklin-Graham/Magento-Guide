@@ -15,7 +15,7 @@ STORES -> Configuration -> select website scope -> AMAZON BUSINESS
 ** Ordering API **
 		* Enable the 'Place Order Service'
 		 ![[Pasted image 20250124012130.png]]
-		* Set Trial Mode to "Yes" only when the program goes live.
+		* Set Trial Mode to "No" only when the program goes live.
 		 ![[Pasted image 20250124012249.png]]
 		*Leave the other settings at their default values.
 ** Sales Config **

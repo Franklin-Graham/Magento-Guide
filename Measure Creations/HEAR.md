@@ -33,7 +33,7 @@ Note **:  Once the HEAR product is created, add a related product. The purpose o
 	  Eg: ![[Pasted image 20250131230244.png]]
   ** Pimcore Product ID: 
 	  config if required (HEAR its not required)
-  ** Incentive Category Group: (add if needed, most cases its not required for HEAR)
+  ** Incentive Category Group: [[Incentive Category Group]]
   ** Incentive Count: (add if needed, most cases its not required for HEAR)
   ** Incentive Type: 
 	  select 'rebate'

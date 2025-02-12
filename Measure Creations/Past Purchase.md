@@ -32,7 +32,7 @@ Check the [[Past Purchase Flow]]
 	  The ID will provide by Pimcore Team (use for measure incentive and other savings calculations)
   ** Pimcore Product ID: 
 	  provide by pimcore Team (configure if its needed)
-  ** Incentive Category Group: (add if needed)
+  ** Incentive Category Group: [[Incentive Category Group]]
 	  The sub-category needs to be configured as per the sub-category set in Pimcore, which will be used for the past-participation check and [[Cart Stacking Limit]].
   ** Incentive Count: 
 	  (Give default as "1", will vary based on Pac-Size)
@@ -44,6 +44,14 @@ Check the [[Past Purchase Flow]]
 	  select 'past purchase'
   ** [[Measure Config JSON]]:
 	  Config the JSON as required
+	  ![[Pasted image 20250206170830.png]]
+			{
+		      "stepsFile": "pastPurchaseRebateSelection",
+			    "accountDetailsEnabledFields": [
+			    "preferred_contact_method",
+			    "hear_about_us"
+			    ]
+			}
   ** Measure Class ID: 
 	  Configure as required (Used for Account validation check)
   ** Incentive Text:

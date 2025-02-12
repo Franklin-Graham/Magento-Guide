@@ -60,9 +60,33 @@
               "icon": "diff",
               "title": "Diff: INCOME VERIFICATION"
             }
+          },
+          {
+            "id": "296eede14bc3be93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cart stacking",
+                "query": "ira flow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,11 +239,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "170b3e15141e828c",
+  "active": "1465d08ed2b78cf1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Store level Config/Discount Coupon.md",
+    "Other Config Explanation/Pull Request.md",
+    "Other Config Explanation/Portal Logo.md",
+    "Other Config Explanation/Magento Marketing Redirect Setup Guide.md",
+    "Other Config Explanation/Lambda Pull Request.md",
+    "Media/Pasted image 20250204200747.png",
+    "Media/Pasted image 20250204192105.png",
+    "Media/Pasted image 20250204192024.png",
+    "Media/Pasted image 20250204180501.png",
+    "Media/Pasted image 20250204180315.png",
+    "Media/Pasted image 20250204165139.png",
+    "Media/Pasted image 20250204164740.png",
+    "Media/Pasted image 20250204164729.png",
+    "Media/Pasted image 20250204164403.png",
+    "Media/Pasted image 20250204163715.png",
     "Measure Creations/INCOME VERIFICATION.md",
     "Run Book/Store setup.md",
-    "conflict-files-obsidian-git.md",
     "Store level Config/Atlas Theme Setup.md",
     "Store level Config/MiniOrange OAuth and SAML.md",
     "Store level Config/CLEARESULT INTEGRATIONS.md",
@@ -233,26 +272,11 @@
     "Store level Config/All store setup.md",
     "Store level Config/Magento Root Category.md",
     "Measure Creations/HOMES.md",
-    "Media/Pasted image 20250203202610.png",
     "Other Config Explanation/Cart Stacking Limit.md",
     "Store level Config/Eligibility Apps.md",
     "Other Config Explanation/Past Purchase Flow.md",
     "Other Config Explanation/Buy Now Flow.md",
-    "Media/Pasted image 20250203230219.png",
-    "Media/Pasted image 20250203225842.png",
-    "Media/Pasted image 20250203225353.png",
-    "Media/Pasted image 20250203210033.png",
-    "Media/Pasted image 20250203205358.png",
-    "Media/Pasted image 20250203205331.png",
-    "Media/Pasted image 20250203205253.png",
-    "Media/Pasted image 20250203202845.png",
-    "Media/Pasted image 20250203202805.png",
     "Store level Config/Test Coupon.md",
-    "Other Config Explanation/Visual Swatch Color.md",
-    "Other Config Explanation/Configurable Products.md",
-    "Store level Config/Coupon Management Endpoints.md",
-    "Store level Config/Coupon Handler.md",
-    "Store level Config/Amasty Extension.md",
     "Run Book",
     "Test",
     "New Text Document.txt",
