@@ -1,5 +1,6 @@
+New Store Creation:
 user  story(sample): https://clearesultdev.visualstudio.com/DSMT/_workitems/edit/452072
-Order sync PR to lambda
+Magento to Atlas integration: Order sync PR to lambda
 
 Measures Types:
 1. Income qualify
