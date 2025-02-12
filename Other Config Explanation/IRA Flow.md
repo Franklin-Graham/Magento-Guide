@@ -1,24 +1,34 @@
-New Store Creation:
-user story(sample): https://clearesultdev.visualstudio.com/DSMT/_workitems/edit/452072
+Product Types: (Product that need to setup in Magento)
+1. Income qualification
+2. HOMES / Modeled saving
+3. HEARs 
+---
 
-Measures Types:
-1. Income qualify
-2. HOMES or Modeled saving
-3. HEARs
-
-Income Qualification:
+## Income Qualification:
 step 1: Prequalification Product setup (Magento)
+- [[INCOME VERIFICATION]]
 step 2: Prequalification store level config (Magento)
-step 3: VUE setup
+		[[Eligibility Apps]]
+		[[Vue App Config]]
+		[[PreQualification Apps]]
+step 3: VUE setup: 
 
-HOMES:
+---
+
+## HOMES:
 Step 1: HOMES Product setup (Magento)
-Step 2: Order Email Creation and config (Magento)
+	    [[HOMES]]
+Step 2: Store level config and Order Email Creation and config (Magento)
+- The store setup follow same as 'Income Qualification'
+-  For Email create a step same as Rebate measure [[Store Email Setup]]
 Step 3: VUE setup
 
-HEAR:
+---
+
+## HEAR:
 Step 1: HEAR Product setup (Magento)
-Step 2: common Email (HOMES order Email)
+		[[HEAR]]
+Step 2: Store setup remain same, order Email is common for HOMES & HEAR
 Step 3: VUE setup
 
-Magento to Atlas integration(Order sync) : PR to lambda
+---
