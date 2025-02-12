@@ -1,6 +1,5 @@
 New Store Creation:
 user  story(sample): https://clearesultdev.visualstudio.com/DSMT/_workitems/edit/452072
-Magento to Atlas integration(Order sync) : PR to lambda
 
 Measures Types:
 1. Income qualify
@@ -21,3 +20,5 @@ HEAR:
 Step 1: HEAR Product setup (Magento)
 Step 2: common Email (HOMES order Email)
 Step 3: VUE setup
+
+Magento to Atlas integration(Order sync) : PR to lambda
