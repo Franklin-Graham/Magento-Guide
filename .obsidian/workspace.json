@@ -60,33 +60,9 @@
               "icon": "diff",
               "title": "Diff: INCOME VERIFICATION"
             }
-          },
-          {
-            "id": "296eede14bc3be93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1465d08ed2b78cf1",
+  "active": "fdbe01683338e358",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Store level Config/Discount Coupon.md",
