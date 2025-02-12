@@ -86,14 +86,15 @@
             "id": "fad8705a276e5494",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Run Book/Store setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Store setup"
             }
           },
           {

@@ -21,5 +21,6 @@ Step 5: Assign Products to the New Store
 - [[HEAR]]
 - [[INCOME VERIFICATION]]
 - [[Coupon]]
-  
+
+Steps to follow IRA Flows:
 	[[IRA Flow]] Product and Store level setup
