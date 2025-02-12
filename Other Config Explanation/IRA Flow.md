@@ -3,7 +3,7 @@ user story(sample): https://clearesultdev.visualstudio.com/DSMT/_workitems/edit/
 
 Measures Types:
 1. Income qualify
-2. HOMES or saved Application
+2. HOMES or Modeled saving
 3. HEARs
 
 Income Qualification:
